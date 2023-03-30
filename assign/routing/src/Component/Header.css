@@ -1,0 +1,19 @@
+.maincontainer{
+    display: flex;
+   margin-top: -47px;
+    padding: 10px;
+    margin-left: 720px;
+    /* justify-content: space-between; */
+    align-items: center;
+    background-color: yellow;
+    gap: 50px;
+    font-size: 1.3rem;
+
+}
+.icon{
+    margin-top: 20px;
+    font-size: 30px;
+    margin-left: 1300px;
+    align-items: center;
+   
+}
