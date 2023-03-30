@@ -1,0 +1,32 @@
+.main-container{
+    margin-top: 180px;
+    text-align: center;
+    /* justify-content: center; */
+    /* padding: 10px; */
+}
+.header{
+    color: green;
+    text-decoration: underline;
+    font-size: 38px;
+
+}
+.para{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+    color: red;
+}
+.button{
+    font-size: 30px;
+    background-color: blue;
+    color: yellow;
+    margin-left: 490px;
+   
+}
+.input{
+    margin-bottom: -30px;
+    text-align: center;
+    justify-content: center;
+    font-size: large;
+    font-weight: 600;
+}
